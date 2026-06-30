@@ -12,8 +12,7 @@ export const services = [
       'Performance Optimization',
       'SEO Implementation'
     ],
-    technologies: ['React', 'Next.js', 'Node.js', 'MongoDB', 'PostgreSQL'],
-    pricing: 'Starting at $5,000'
+    technologies: ['React', 'Next.js', 'Node.js', 'MongoDB', 'PostgreSQL']
   },
   {
     id: 2,
@@ -28,8 +27,7 @@ export const services = [
       'Push Notifications',
       'Offline Functionality'
     ],
-    technologies: ['Flutter', 'Swift', 'Kotlin', 'Firebase'],
-    pricing: 'Starting at $8,000'
+    technologies: ['Flutter', 'Swift', 'Kotlin', 'Firebase']
   },
   {
     id: 3,
@@ -44,7 +42,6 @@ export const services = [
       'Usability Testing',
       'Responsive Design'
     ],
-    technologies: ['Figma', 'Adobe XD', 'Sketch', 'InVision'],
-    pricing: 'Starting at $3,000'
+    technologies: ['Figma', 'Adobe XD', 'Sketch', 'InVision']
   }
 ]
